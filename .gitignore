@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.ipynb_checkpoints
+FAQ.docx
+Problem Statements.docx
+PipeLineAssignment - Jupyter Notebook.pdf
