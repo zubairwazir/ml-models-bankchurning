@@ -463,7 +463,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](images/output_17_0.png)
     
 
 
@@ -476,7 +476,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](images/output_18_0.png)
     
 
 
@@ -489,7 +489,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](images/output_19_0.png)
     
 
 
@@ -502,7 +502,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](images/output_20_0.png)
     
 
 
@@ -515,7 +515,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -529,7 +529,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](images/output_23_0.png)
     
 
 
@@ -544,7 +544,7 @@ histogram_boxplot(df, "Customer_Age")
 
 
     
-![png](output_26_0.png)
+![png](images/output_26_0.png)
     
 
 
@@ -555,7 +555,7 @@ histogram_boxplot(df, "Dependent_count")
 
 
     
-![png](output_27_0.png)
+![png](images/output_27_0.png)
     
 
 
@@ -566,7 +566,7 @@ histogram_boxplot(df, "Months_on_book")
 
 
     
-![png](output_28_0.png)
+![png](images/output_28_0.png)
     
 
 
@@ -577,7 +577,7 @@ histogram_boxplot (df, "Months_Inactive_12_mon")
 
 
     
-![png](output_29_0.png)
+![png](images/output_29_0.png)
     
 
 
@@ -588,7 +588,7 @@ histogram_boxplot (df, "Total_Relationship_Count")
 
 
     
-![png](output_30_0.png)
+![png](images/output_30_0.png)
     
 
 
@@ -599,7 +599,7 @@ histogram_boxplot (df, "Contacts_Count_12_mon")
 
 
     
-![png](output_31_0.png)
+![png](images/output_31_0.png)
     
 
 
@@ -610,7 +610,7 @@ histogram_boxplot (df, "Credit_Limit")
 
 
     
-![png](output_32_0.png)
+![png](images/output_32_0.png)
     
 
 
@@ -621,7 +621,7 @@ histogram_boxplot (df, "Total_Revolving_Bal")
 
 
     
-![png](output_33_0.png)
+![png](images/output_33_0.png)
     
 
 
@@ -632,7 +632,7 @@ histogram_boxplot (df, "Avg_Open_To_Buy")
 
 
     
-![png](output_34_0.png)
+![png](images/output_34_0.png)
     
 
 
@@ -643,7 +643,7 @@ histogram_boxplot (df, "Total_Amt_Chng_Q4_Q1")
 
 
     
-![png](output_35_0.png)
+![png](images/output_35_0.png)
     
 
 
@@ -654,7 +654,7 @@ histogram_boxplot (df, "Total_Trans_Amt")
 
 
     
-![png](output_36_0.png)
+![png](images/output_36_0.png)
     
 
 
@@ -665,7 +665,7 @@ histogram_boxplot (df, "Total_Trans_Ct")
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -676,7 +676,7 @@ histogram_boxplot (df, "Total_Ct_Chng_Q4_Q1")
 
 
     
-![png](output_38_0.png)
+![png](images/output_38_0.png)
     
 
 
@@ -687,7 +687,7 @@ histogram_boxplot (df, "Avg_Utilization_Ratio")
 
 
     
-![png](output_39_0.png)
+![png](images/output_39_0.png)
     
 
 
@@ -698,7 +698,7 @@ labeled_barplot(df, "Dependent_count", perc=True)
 
 
     
-![png](output_40_0.png)
+![png](images/output_40_0.png)
     
 
 
@@ -709,7 +709,7 @@ labeled_barplot(df, "Months_Inactive_12_mon", perc=True)
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -720,7 +720,7 @@ labeled_barplot(df, "Total_Relationship_Count", perc=True)
 
 
     
-![png](output_42_0.png)
+![png](images/output_42_0.png)
     
 
 
@@ -731,7 +731,7 @@ labeled_barplot(df, "Contacts_Count_12_mon", perc=True)
 
 
     
-![png](output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
@@ -742,7 +742,7 @@ labeled_barplot(df, "Attrition_Flag", perc=True)
 
 
     
-![png](output_44_0.png)
+![png](images/output_44_0.png)
     
 
 
@@ -753,7 +753,7 @@ labeled_barplot(df, "Education_Level", perc=True)
 
 
     
-![png](output_45_0.png)
+![png](images/output_45_0.png)
     
 
 
@@ -764,7 +764,7 @@ labeled_barplot(df, "Marital_Status", perc=True)
 
 
     
-![png](output_46_0.png)
+![png](images/output_46_0.png)
     
 
 
@@ -775,7 +775,7 @@ labeled_barplot(df, "Income_Category", perc=True)
 
 
     
-![png](output_47_0.png)
+![png](images/output_47_0.png)
     
 
 
@@ -786,7 +786,7 @@ labeled_barplot(df, "Card_Category", perc=True)
 
 
     
-![png](output_48_0.png)
+![png](images/output_48_0.png)
     
 
 
@@ -801,7 +801,7 @@ plt.show()
 
 
     
-![png](output_50_0.png)
+![png](images/output_50_0.png)
     
 
 
@@ -820,7 +820,7 @@ stacked_barplot(df, "Gender", "Attrition_Flag")
 
 
     
-![png](output_51_1.png)
+![png](images/output_51_1.png)
     
 
 
@@ -845,7 +845,7 @@ stacked_barplot(df, "Dependent_count", "Attrition_Flag")
 
 
     
-![png](output_53_1.png)
+![png](images/output_53_1.png)
     
 
 
@@ -870,7 +870,7 @@ stacked_barplot(df, "Education_Level", "Attrition_Flag")
 
 
     
-![png](output_55_1.png)
+![png](images/output_55_1.png)
     
 
 
@@ -892,7 +892,7 @@ stacked_barplot(df, "Marital_Status", "Attrition_Flag")
 
 
     
-![png](output_57_1.png)
+![png](images/output_57_1.png)
     
 
 
@@ -917,7 +917,7 @@ stacked_barplot(df, "Income_Category", "Attrition_Flag")
 
 
     
-![png](output_59_1.png)
+![png](images/output_59_1.png)
     
 
 
@@ -940,7 +940,7 @@ stacked_barplot(df, "Card_Category", "Attrition_Flag")
 
 
     
-![png](output_61_1.png)
+![png](images/output_61_1.png)
     
 
 
@@ -965,7 +965,7 @@ stacked_barplot(df, "Total_Relationship_Count", "Attrition_Flag")
 
 
     
-![png](output_63_1.png)
+![png](images/output_63_1.png)
     
 
 
@@ -991,7 +991,7 @@ stacked_barplot(df, "Months_Inactive_12_mon", "Attrition_Flag")
 
 
     
-![png](output_65_1.png)
+![png](images/output_65_1.png)
     
 
 
@@ -1017,7 +1017,7 @@ stacked_barplot(df, "Contacts_Count_12_mon", "Attrition_Flag")
 
 
     
-![png](output_67_1.png)
+![png](images/output_67_1.png)
     
 
 
@@ -1406,7 +1406,7 @@ plt.show()
 
 
     
-![png](output_86_0.png)
+![png](images/output_86_0.png)
     
 
 
@@ -2459,7 +2459,7 @@ plot_learning_curve(X_std, y_undersampled, clf5)
 
 
     
-![png](output_146_0.png)
+![png](images/output_146_0.png)
     
 
 
@@ -2470,7 +2470,7 @@ plot_roc_auc_curve(X_std, y_undersampled, clf5)
 
 
     
-![png](output_147_0.png)
+![png](images/output_147_0.png)
     
 
 
@@ -2490,7 +2490,7 @@ plt.show()
 
 
     
-![png](output_148_0.png)
+![png](images/output_148_0.png)
     
 
 
